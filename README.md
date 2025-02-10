@@ -24,9 +24,7 @@ Installation
 
 1. Clone the repository:
 
-git clone <your-repo-url>
-
-cd <project-directory>
+git clone sphinxlet/Cryptocurrenc-Data-Fetcher
 
 2. Install Composer dependencies:
 
