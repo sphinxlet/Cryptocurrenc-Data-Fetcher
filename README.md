@@ -76,10 +76,6 @@ Dependencies
 
 - vlucas/phpdotenv - Loads environment variables from a .env file.
 
-License
-
-- This project is licensed under the MIT License.
-
 Acknowledgements
 
 - CoinMarketCap for cryptocurrency data.
